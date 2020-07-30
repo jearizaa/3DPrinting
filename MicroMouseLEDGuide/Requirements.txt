@@ -1,0 +1,1 @@
+The micromouse has a round PCB has five pairs of diodes. It is required a firm frame for these diodes to work in specific angles.

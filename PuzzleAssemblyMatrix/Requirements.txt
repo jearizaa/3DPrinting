@@ -1,0 +1,1 @@
+A collaborative robo will assemble the wood knot puzzle. It is required an assembly matrix together with a individualizer from which the robot will take the pieces.

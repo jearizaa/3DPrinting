@@ -1,0 +1,1 @@
+It is required a frame for mounting 4 gyroscopes in a human arm with their respective circuits of communication. These are mounted in different angles to provide mitigation to gimbal lock issues according to design. 
